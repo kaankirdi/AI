@@ -40,7 +40,7 @@ If a script needs a GPU it says so at the top; otherwise it runs on any laptop.
 | [02](./days/day-02-bitsandbytes-4bit) | 4-bit inference with bitsandbytes (NF4) | GPU | ✅ Done |
 | [03](./days/day-03-gptq-vs-awq) | GPTQ vs AWQ — post-training quantization | GPU | ✅ Done |
 | [04](./days/day-04-kv-cache-quantization) | KV-cache quantization for long-context inference | CPU (sim) | ✅ Done |
-| 05 | LoRA / QLoRA fine-tuning | GPU | 🔜 Planned |
+| [05](./days/day-05-lora-qlora) | LoRA / QLoRA fine-tuning | CPU demo + GPU | ✅ Done |
 | 06 | Retrieval-Augmented Generation (RAG) basics | CPU | 🔜 Planned |
 | 07 | Building a tool-using agent | CPU | 🔜 Planned |
 
