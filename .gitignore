@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Model weights & data (never commit these)
+*.bin
+*.safetensors
+*.gguf
+*.pt
+*.pth
+*.onnx
+models/
+data/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
