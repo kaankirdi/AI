@@ -14,3 +14,6 @@ bitsandbytes>=0.43     # Day 2 — NF4 4-bit
 
 # Retrieval (Day 6). CPU-friendly, ~90 MB model on first run.
 # sentence-transformers>=2.7   # rag_semantic.py (rag_from_scratch.py needs only numpy)
+
+# RAG agent (Day 7). transformers+torch already above; the from-scratch
+# agent needs only numpy. rag_agent_llm.py downloads a ~0.5B instruct model.

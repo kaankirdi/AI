@@ -28,6 +28,14 @@ Curated references for the topics in this repo. Papers first, then practical gui
 - Sentence-Transformers docs: https://www.sbert.net/
 - FAISS — efficient similarity search: https://github.com/facebookresearch/faiss
 
+## Agents & re-ranking
+- **ReAct** — Yao et al., 2022 — interleaving reasoning traces with tool actions.
+  https://arxiv.org/abs/2210.03629
+- **Toolformer** — Schick et al., 2023 — LLMs teaching themselves to call tools.
+  https://arxiv.org/abs/2302.04761
+- **MMR** — Carbonell & Goldstein, 1998 — maximal marginal relevance re-ranking.
+  https://dl.acm.org/doi/10.1145/290941.291025
+
 ## Practical guides / libraries
 - Hugging Face — Quantization docs: https://huggingface.co/docs/transformers/quantization
 - bitsandbytes: https://github.com/bitsandbytes-foundation/bitsandbytes

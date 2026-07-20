@@ -42,7 +42,8 @@ If a script needs a GPU it says so at the top; otherwise it runs on any laptop.
 | [04](./days/day-04-kv-cache-quantization) | KV-cache quantization for long-context inference | CPU (sim) | ✅ Done |
 | [05](./days/day-05-lora-qlora) | LoRA / QLoRA fine-tuning | CPU demo + GPU | ✅ Done |
 | [06](./days/day-06-rag-basics) | Retrieval-Augmented Generation (RAG) basics | CPU | ✅ Done |
-| 07 | End-to-end RAG: retrieval + a tool-using agent | CPU | 🔜 Planned |
+| [07](./days/day-07-rag-agent) | End-to-end RAG: re-ranking + a tool-using agent | CPU | ✅ Done |
+| 08 | Vector databases + cross-encoder re-ranking | CPU | 🔜 Planned |
 
 ---
 
