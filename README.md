@@ -41,8 +41,8 @@ If a script needs a GPU it says so at the top; otherwise it runs on any laptop.
 | [03](./days/day-03-gptq-vs-awq) | GPTQ vs AWQ — post-training quantization | GPU | ✅ Done |
 | [04](./days/day-04-kv-cache-quantization) | KV-cache quantization for long-context inference | CPU (sim) | ✅ Done |
 | [05](./days/day-05-lora-qlora) | LoRA / QLoRA fine-tuning | CPU demo + GPU | ✅ Done |
-| 06 | Retrieval-Augmented Generation (RAG) basics | CPU | 🔜 Planned |
-| 07 | Building a tool-using agent | CPU | 🔜 Planned |
+| [06](./days/day-06-rag-basics) | Retrieval-Augmented Generation (RAG) basics | CPU | ✅ Done |
+| 07 | End-to-end RAG: retrieval + a tool-using agent | CPU | 🔜 Planned |
 
 ---
 

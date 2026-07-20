@@ -18,6 +18,16 @@ Curated references for the topics in this repo. Papers first, then practical gui
 - **KIVI** — 2-bit asymmetric KV cache quantization. https://arxiv.org/abs/2402.02750
 - **H2O** — heavy-hitter oracle for KV cache eviction. https://arxiv.org/abs/2306.14048
 
+## Retrieval-Augmented Generation
+- **RAG** — Lewis et al., 2020 — the original retrieval-augmented generation paper.
+  https://arxiv.org/abs/2005.11401
+- **Dense Passage Retrieval (DPR)** — Karpukhin et al., 2020 — dual-encoder retrieval.
+  https://arxiv.org/abs/2004.04906
+- **Sentence-BERT** — Reimers & Gurevych, 2019 — sentence embeddings via siamese BERT.
+  https://arxiv.org/abs/1908.10084
+- Sentence-Transformers docs: https://www.sbert.net/
+- FAISS — efficient similarity search: https://github.com/facebookresearch/faiss
+
 ## Practical guides / libraries
 - Hugging Face — Quantization docs: https://huggingface.co/docs/transformers/quantization
 - bitsandbytes: https://github.com/bitsandbytes-foundation/bitsandbytes
